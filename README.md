@@ -1,16 +1,19 @@
-# myshop
+# My Shop
 
-A new Flutter project.
+This app was made through the completion of the course taught by Maximilian Schwarzmüller on Udemy.
 
-## Getting Started
+## About the project
+The premise of the project centers around a cross platform mobile app (Android & iOS) that allows customers to browse shop items, add them to cart, and place an order. It also allows shop owners to add new items to the store for customers to buy.
 
-This project is a starting point for a Flutter application.
+## Technologies used
+*Dart language
+*Flutter SDK (Android)
+*Firebase Realtime Database
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Learning Objectives Achieved
+*State Management using the Provider pattern
+*Screen/Route Navigation
+*HTTP Requests
+*User Authentication with Firebase
+*Screen Animations
